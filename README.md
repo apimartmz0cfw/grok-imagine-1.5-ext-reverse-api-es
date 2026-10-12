@@ -1,10 +1,27 @@
-# Grok Imagine 1.5 Ext — ingeniería inversa route (Español)
+# Grok Imagine 1.5 API (`grok-imagine-1.5-apimart`)
 
-> **1K $0.015** · model ID `grok-imagine-1.5-apimart` · **ingeniería inversa/reverse-engineered** route.
+<!-- conv-kit:v1 -->
 
-**[Ver precios](https://go.apimart.ai/k-1cf40b)** · **[Obtener clave API](https://go.apimart.ai/k-99acfd)**
+<p align="center">
+  <img src="assets/badges/price.svg" alt="observed unit price"> <img src="assets/badges/billing.svg" alt="billing model"> <img src="assets/badges/compat.svg" alt="OpenAI-compatible endpoint">
+</p>
 
-grok-imagine-1.5-ext-reverse-api-es es una ruta **ingeniería inversa** para Grok Imagine 1.5 Ext: ID invocable `grok-imagine-1.5-apimart`, en paralelo con la ruta oficial (`grok-imagine-image`) a un precio unitario menor.
+<p align="center">
+  <img src="assets/01-product-hero-perfume.jpg" width="820" alt="Grok Imagine 1.5 (grok-imagine-1.5-apimart) output generated through APIMart">
+</p>
+
+> **from $0.015 per image** — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+
+**[Get an API key](https://go.apimart.ai/k-99acfd)** · **[Live pricing](https://go.apimart.ai/k-3db524)** · **[Model page](https://go.apimart.ai/k-5d6b5d)** · [⚡ 60-second quickstart](#quickstart)
+
+**Why teams call Grok Imagine 1.5 (`grok-imagine-1.5-apimart`) through APIMart**
+
+- **One key, entire catalog.** The same `https://api.apimart.ai/v1` base URL and `Authorization` header reach Grok Imagine 1.5 (`grok-imagine-1.5-apimart`) and 300+ other image, video and language models — switch the `model` field, not your client.
+- **$1 minimum, pay as you go.** No subscription and no prepaid plan to size up front: top up from $1 and spend it on calls. There is no free quota to burn through first, so the price in this table is the price you pay.
+- **The charge comes back in the response.** Every completed task reports the amount billed (`cost` / `credits_cost`), so a spend number is read per call instead of guessed at month end.
+- **Async by design.** Submit, take the `task_id`, poll `GET /v1/tasks/{id}` — batching and retries are ordinary queue work, not a bespoke integration.
+
+<!-- /conv-kit:v1 -->
 
 ## Pricing (snapshot 2026-09-28)
 
